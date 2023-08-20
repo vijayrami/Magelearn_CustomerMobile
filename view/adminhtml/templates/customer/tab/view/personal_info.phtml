@@ -1,0 +1,8 @@
+<?php
+    /** @var \Magelearn\CustomerMobile\Block\Adminhtml\Customer\Edit\Tab\View\PersonalInfo $block */
+    $customer = $block->getCustomerObject();
+?>
+<tr>
+    <th><?= $block->escapeHtml(__('Customer Mobile')) ?></th>
+    <td><?= $block->escapeHtml($customer->getCustomAttribute('customer_mobile')->getValue()) ?></td>
+</tr>
