@@ -13,4 +13,4 @@ Add custom attribute (Customer Mobile) to customer entity. This custom attribute
 
 ![Vijay-Rami-Customers-Customers-Magento-Admin.png](/assets/fifth.png)
 
-![image.png](https://i.postimg.cc/jjYgrdCP/image.png)](/assets/sixth.png)
+![image.png](/assets/sixth.png)
